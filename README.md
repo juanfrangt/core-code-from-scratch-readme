@@ -27,3 +27,12 @@ I need to highlight these words ==Guatemala==.
 # H1
 ## H2
 ## tuesday
+### 1. INTERPRETED LANGUAGE IS MORE PORTABLE AND FLEXIBLE THEN COMPILED LANGUAGES.
+JAVASCRIPT IS AN INTERPRETED LANGUAGE.
+
+INTERMIDATE LANGUAGE 50/50
+
+Disadvantages of interpreted languages
+The most notable disadvantage is typical execution speed compared to compiled languages.
+
+In compiled languages, the target machine directly translates the program and excecuted. In interpreted languages, you need a .EXE (Excutable), in order to run and translate the code language.
