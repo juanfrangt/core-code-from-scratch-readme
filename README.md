@@ -16,3 +16,10 @@
 "age": 38
 }
 ```
+
+```
+{
+I need to highlight these ==Real Madrid==.
+I need to highlight these words ==Guatemala==.
+}
+```
