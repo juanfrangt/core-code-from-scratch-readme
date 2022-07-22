@@ -42,3 +42,11 @@ compilation is faster..
 Interpreter executes the code, line by line, then is a bit slower..
 but is platform independent.
 
+## 3. Pseudocode Currency Converter. *excersise*
+1. START
+  2. Amount <-- GET
+  3. BTCprice <-- GET FROM(https://www.coindesk.com/price/bitcoin/)
+  4. Total <-- Amount * BTCprice
+  5. PRINT Total
+  9. END
+
